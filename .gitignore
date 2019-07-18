@@ -1,0 +1,4 @@
+dashboard_out/
+prometheus_alerts.yml
+jsonnetfile.lock.json
+vendor/
